@@ -1,4 +1,4 @@
-![Description of Image](./XScottz/Image.PNG)
+![Description of Image](./The1975z/Image.PNG)
 Cyber-Lab : WebScanPro
 รายละเอียด Software:
 WebScanPro เป็นเครื่องมือที่พัฒนาโดยใช้ภาษา Python สำหรับการประเมินความปลอดภัยของเว็บไซต์ เหมาะสำหรับนักทดสอบเจาะระบบ (Penetration Testers) และผู้เชี่ยวชาญด้านความปลอดภัยทางไซเบอร์ ตัวโปรแกรมสามารถสแกนเว็บไซต์เพื่อดึงข้อมูลสำคัญที่เกี่ยวข้อง เช่น พอร์ตที่เปิดอยู่ (Open Ports), ข้อมูล DNS, ข้อมูล WHOIS, รายละเอียดทางภูมิศาสตร์ (GeoIP), การตรวจสอบ Web Application Firewall (WAF) และช่องโหว่ที่อาจเกิดขึ้น เช่น การโจมตีด้วย SQL Injection
