@@ -144,7 +144,7 @@ def check_waf(target_url):
     except Exception as e:
         print(f"{B}Error checking WAF: {str(e)}{F}")
 
-def check_sql_injection(target_url):
+def check_sql_injection(target_url): # and payload
     payload = "' OR '1'='1"
     try:
         response = requests.get(f"{target_url}/?id={payload}")
